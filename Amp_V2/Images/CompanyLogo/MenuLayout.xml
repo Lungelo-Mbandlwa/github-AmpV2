@@ -1,0 +1,315 @@
+﻿<XtraSerializer version="1.0" application="NavBarControl">
+  <property name="#LayoutVersion" />
+  <property name="NavigationPaneMaxVisibleGroups">-1</property>
+  <property name="NavigationPaneOverflowPanelUseSmallImages">true</property>
+  <property name="EachGroupHasSelectedLink">false</property>
+  <property name="LinkInterval">-1</property>
+  <property name="ExplorerBarGroupOuterIndent">-1</property>
+  <property name="ExplorerBarGroupInterval">-1</property>
+  <property name="AllowSelectedLink">false</property>
+  <property name="Items" iskey="true" value="16">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Name">navBarItemNextLead</property>
+      <property name="Caption">Next Lead</property>
+      <property name="Tag" isnull="true" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="CanDrag">true</property>
+      <property name="Visible">true</property>
+      <property name="StyleDisabledName" />
+      <property name="Enabled">true</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Name">navBarItemNewReferal</property>
+      <property name="Caption">New Referal</property>
+      <property name="Tag" isnull="true" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="CanDrag">true</property>
+      <property name="Visible">true</property>
+      <property name="StyleDisabledName" />
+      <property name="Enabled">true</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Name">navBarItemCapturePersonalInfo</property>
+      <property name="Caption">Capture Personal Info </property>
+      <property name="Tag" isnull="true" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="CanDrag">true</property>
+      <property name="Visible">true</property>
+      <property name="StyleDisabledName" />
+      <property name="Enabled">true</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Name">NavBaremploymentdetails</property>
+      <property name="Caption">Capture Employ Details</property>
+      <property name="Tag" isnull="true" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="CanDrag">true</property>
+      <property name="Visible">true</property>
+      <property name="StyleDisabledName" />
+      <property name="Enabled">true</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Name">NavBarBank</property>
+      <property name="Caption">Capture Bank</property>
+      <property name="Tag" isnull="true" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="CanDrag">true</property>
+      <property name="Visible">true</property>
+      <property name="StyleDisabledName" />
+      <property name="Enabled">true</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Name">navBarItemProduct</property>
+      <property name="Caption">View / Select Product</property>
+      <property name="Tag" isnull="true" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="CanDrag">true</property>
+      <property name="Visible">true</property>
+      <property name="StyleDisabledName" />
+      <property name="Enabled">true</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Name">NavBarItemSaleView</property>
+      <property name="Caption">View Sale Status</property>
+      <property name="Tag" isnull="true" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="CanDrag">true</property>
+      <property name="Visible">true</property>
+      <property name="StyleDisabledName" />
+      <property name="Enabled">true</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Name">navBarItemSendToCompliance</property>
+      <property name="Caption">Send To Compliance</property>
+      <property name="Tag" isnull="true" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="CanDrag">true</property>
+      <property name="Visible">true</property>
+      <property name="StyleDisabledName" />
+      <property name="Enabled">true</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Name">navBarItem2</property>
+      <property name="Caption">Cancel Current Sale</property>
+      <property name="Tag" isnull="true" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="CanDrag">true</property>
+      <property name="Visible">true</property>
+      <property name="StyleDisabledName" />
+      <property name="Enabled">true</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Name">navBarItemFinish</property>
+      <property name="Caption">Finish</property>
+      <property name="Tag" isnull="true" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="CanDrag">true</property>
+      <property name="Visible">true</property>
+      <property name="StyleDisabledName" />
+      <property name="Enabled">true</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Name">navBarItemTerms</property>
+      <property name="Caption">Terms &amp; Conditions</property>
+      <property name="Tag" isnull="true" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="CanDrag">true</property>
+      <property name="Visible">true</property>
+      <property name="StyleDisabledName" />
+      <property name="Enabled">true</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Name">navBarItemVerifyCompliance</property>
+      <property name="Caption">Verify Compliance</property>
+      <property name="Tag" isnull="true" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="CanDrag">true</property>
+      <property name="Visible">true</property>
+      <property name="StyleDisabledName" />
+      <property name="Enabled">true</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="Name">navBarItemViewMySales</property>
+      <property name="Caption">View My Sales</property>
+      <property name="Tag" isnull="true" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="CanDrag">true</property>
+      <property name="Visible">true</property>
+      <property name="StyleDisabledName" />
+      <property name="Enabled">true</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="Name">navBarItemSearchForSale</property>
+      <property name="Caption">Search For Sale</property>
+      <property name="Tag" isnull="true" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="CanDrag">true</property>
+      <property name="Visible">true</property>
+      <property name="StyleDisabledName" />
+      <property name="Enabled">true</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="Name">navBarItemViewMyCallBacks</property>
+      <property name="Caption">View My CallBacks</property>
+      <property name="Tag" isnull="true" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="CanDrag">true</property>
+      <property name="Visible">true</property>
+      <property name="StyleDisabledName" />
+      <property name="Enabled">true</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="Name">navBarItemSearchForLead</property>
+      <property name="Caption">Search For Lead</property>
+      <property name="Tag" isnull="true" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="CanDrag">true</property>
+      <property name="Visible">true</property>
+      <property name="StyleDisabledName" />
+      <property name="Enabled">true</property>
+    </property>
+  </property>
+  <property name="DragDropFlags">AllowDrag, AllowDrop</property>
+  <property name="NavigationPaneGroupClientHeight">100</property>
+  <property name="BorderStyle">Default</property>
+  <property name="ShowGroupHint">true</property>
+  <property name="ShowLinkHint">true</property>
+  <property name="Groups" iskey="true" value="4">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="GroupCaptionUseImage">Default</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="Tag" isnull="true" />
+      <property name="Name">navBarGroupCreate</property>
+      <property name="TopVisibleLinkIndex">0</property>
+      <property name="Expanded">true</property>
+      <property name="Caption">Create</property>
+      <property name="StyleBackgroundName" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="GroupStyle">Default</property>
+      <property name="ItemLinks" iskey="true" value="10">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="ItemName">navBarItemCapturePersonalInfo</property>
+        </property>
+        <property name="Item2" isnull="true" iskey="true">
+          <property name="ItemName">NavBaremploymentdetails</property>
+        </property>
+        <property name="Item3" isnull="true" iskey="true">
+          <property name="ItemName">NavBarBank</property>
+        </property>
+        <property name="Item4" isnull="true" iskey="true">
+          <property name="ItemName">navBarItemProduct</property>
+        </property>
+        <property name="Item5" isnull="true" iskey="true">
+          <property name="ItemName">NavBarItemSaleView</property>
+        </property>
+        <property name="Item6" isnull="true" iskey="true">
+          <property name="ItemName">navBarItemSendToCompliance</property>
+        </property>
+        <property name="Item7" isnull="true" iskey="true">
+          <property name="ItemName">navBarItem2</property>
+        </property>
+        <property name="Item8" isnull="true" iskey="true">
+          <property name="ItemName">navBarItemVerifyCompliance</property>
+        </property>
+        <property name="Item9" isnull="true" iskey="true">
+          <property name="ItemName">navBarItemTerms</property>
+        </property>
+        <property name="Item10" isnull="true" iskey="true">
+          <property name="ItemName">navBarItemFinish</property>
+        </property>
+      </property>
+      <property name="ControlContainerName" />
+      <property name="DragDropFlags">Default</property>
+      <property name="NavigationPaneVisible">true</property>
+      <property name="SelectedLinkIndex">-1</property>
+      <property name="GroupClientHeight">-1</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="GroupCaptionUseImage">Default</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="Tag" isnull="true" />
+      <property name="Name">navBarGroupMySales</property>
+      <property name="TopVisibleLinkIndex">0</property>
+      <property name="Expanded">true</property>
+      <property name="Caption">My Sales</property>
+      <property name="StyleBackgroundName" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="GroupStyle">Default</property>
+      <property name="ItemLinks" iskey="true" value="4">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="ItemName">navBarItemSearchForSale</property>
+        </property>
+        <property name="Item2" isnull="true" iskey="true">
+          <property name="ItemName">navBarItemSearchForLead</property>
+        </property>
+        <property name="Item3" isnull="true" iskey="true">
+          <property name="ItemName">navBarItemViewMyCallBacks</property>
+        </property>
+        <property name="Item4" isnull="true" iskey="true">
+          <property name="ItemName">navBarItemViewMySales</property>
+        </property>
+      </property>
+      <property name="ControlContainerName" />
+      <property name="DragDropFlags">Default</property>
+      <property name="NavigationPaneVisible">true</property>
+      <property name="SelectedLinkIndex">-1</property>
+      <property name="GroupClientHeight">-1</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="GroupCaptionUseImage">Default</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="Tag" isnull="true" />
+      <property name="Name">navBarGroupMyPerformance</property>
+      <property name="TopVisibleLinkIndex">0</property>
+      <property name="Expanded">true</property>
+      <property name="Caption">My Performance</property>
+      <property name="StyleBackgroundName" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="GroupStyle">Default</property>
+      <property name="ItemLinks" iskey="true" value="0" />
+      <property name="ControlContainerName" />
+      <property name="DragDropFlags">Default</property>
+      <property name="NavigationPaneVisible">true</property>
+      <property name="SelectedLinkIndex">-1</property>
+      <property name="GroupClientHeight">-1</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="GroupCaptionUseImage">Default</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="Tag" isnull="true" />
+      <property name="Name">navBarGroupMyQA</property>
+      <property name="TopVisibleLinkIndex">0</property>
+      <property name="Expanded">false</property>
+      <property name="Caption">My QA</property>
+      <property name="StyleBackgroundName" />
+      <property name="LargeImageIndex">-1</property>
+      <property name="GroupStyle">Default</property>
+      <property name="ItemLinks" iskey="true" value="0" />
+      <property name="ControlContainerName" />
+      <property name="DragDropFlags">Default</property>
+      <property name="NavigationPaneVisible">true</property>
+      <property name="SelectedLinkIndex">-1</property>
+      <property name="GroupClientHeight">-1</property>
+    </property>
+  </property>
+</XtraSerializer>
